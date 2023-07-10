@@ -1,5 +1,4 @@
 import NextLink from 'next/link';
-
 import { AppBar, IconButton, Link, Toolbar, Typography } from '@mui/material'
 import { MenuOutlined } from '@mui/icons-material'
 
